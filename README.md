@@ -1,0 +1,2 @@
+# Hotel-Demand-Using-Data-Visualization
+It is very important for a company to always analyze its business performance. On this occasion, we will explore the business in the hospitality sector more. Our focus is to find out how our customers behave in making hotel reservations, and their relationship to the cancellation rate of hotel reservations. The results of the insights we find will be presented in the form of visualization data to make it easier to understand and more persuasive.
